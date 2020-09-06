@@ -1,0 +1,25 @@
+.about{
+    position: relative;
+}
+.about-content{
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    color: white;
+    background: #ffffff4d;
+    padding: 36px;
+    border-radius: 30px 0 30px 0;
+    width: 80%;
+    text-shadow: 1px 2px 2px black;
+}
+.about-content h2{
+    font-size: 3rem;
+}
+.about-content h5{
+    font-size: 1.3rem;
+}
+.about img{
+    width: 100%;
+    height: auto;
+    opacity: .7;
+}

@@ -1,0 +1,39 @@
+.width{
+    width: 70%;
+    margin: 0 auto;
+}
+.home{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 20px;
+}
+
+.post-title {
+    width: 25%;
+    box-shadow: 2px 15px 9px lightgrey;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.post-title h3{
+    font-size: 21px;
+    font-weight: 800;
+    text-align: left;
+}
+.user{
+    width: 25%;
+    box-shadow: 2px 15px 9px lightgrey;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-top: 10px;
+}
+.user h2{
+    font-size: 21px;
+    font-weight: 800;
+}
+.post{
+    width: 50%;
+    margin: 10px auto;
+}

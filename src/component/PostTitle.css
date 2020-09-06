@@ -1,0 +1,13 @@
+.link{
+    text-decoration: none;
+    color: black
+}
+.postTitle:hover{
+    background-color: rgb(200, 200, 200);
+}
+.postTitle{
+    text-align: left;
+    word-break: break-all;
+    margin-bottom: 12px;
+    padding: 2px 5px;
+}

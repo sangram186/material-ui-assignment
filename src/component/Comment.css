@@ -1,0 +1,10 @@
+.image{
+    border-radius: 50%;
+}
+.comment{
+    margin-bottom: 23px;
+    border-bottom: 1px solid #efeeee;
+}
+.comment p{
+    margin: 7px 0;
+}
